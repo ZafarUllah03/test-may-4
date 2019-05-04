@@ -1,0 +1,45 @@
+body {
+    background-color: #e2e4e5;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    margin-left: 160px;
+    ;
+}
+
+.images {
+    margin: 20px;
+    width: 200px;
+    border: 1px #e2e4e5;
+    padding: 20px;
+}
+
+.images:hover {
+    border: 1px white;
+    border-radius: 6px;
+    background-color: white;
+    color: orangered;
+}
+
+div.images img {
+    width: 100%;
+}
+
+div.desc {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+
+div.desc:hover {
+    color: orangered;
+}
+
+#cen {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 0 0 3px #FF0000;
+}

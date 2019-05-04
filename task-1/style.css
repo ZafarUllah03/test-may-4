@@ -1,0 +1,96 @@
+.btn1 {
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    color: white;
+    background-color: #c63928;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background-color: #ed4d4f;
+    cursor: pointer;
+}
+
+.btn2 {
+    height: 50px;
+    width: 100px;
+    background-color: #fcd835;
+    color: #2a61fb;
+    border-color: #2a61fb;
+    font-family: 'Gugi', cursive;
+    font-size: 20px;
+}
+
+.btn2:hover {
+    background-color: #2a61fb;
+    color: #fcd835;
+    cursor: pointer;
+}
+
+.btn3 {
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    border: 0;
+    color: white;
+    background-image: linear-gradient(-90deg, #a2d389, #5fd0cf);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn3:hover {
+    cursor: pointer;
+}
+
+.btn4 {
+    background-color: white;
+    border-color: #694bea;
+    color: #694bea;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 4px;
+    font-size: 20px;
+    font-weight: bold
+}
+
+.btn4:hover {
+    background-color: #694bea;
+    color: white;
+    cursor: pointer;
+}
+
+.btn5 {
+    height: 45px;
+    width: 180px;
+    font-size: 20px;
+    color: white;
+    background-color: #f7b232;
+    border: 0;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn5:hover {
+    cursor: pointer;
+    background-color: #f38d31;
+}
+
+.btn6 {
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    background-color: white;
+    color: #37a1f3;
+    font-size: 25px;
+    border-color: #37a1f3
+}
+
+.btn6:hover {
+    color: white;
+    background-color: #37a1f3;
+    cursor: pointer;
+}
